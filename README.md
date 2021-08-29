@@ -21,7 +21,7 @@ Starting prices and ending prices were found using If statements checking to see
 
 ![VBA_tSP_tEP.png](VBA_tSP_tEP.png)
 
-### Results
+### Findings
 
 The results are color coded to show positive or negative returns at a glance in red or green. Stocks ENPH and RUN were the only two stocks to show positive returns in both years of 2017 and 2018.
 
