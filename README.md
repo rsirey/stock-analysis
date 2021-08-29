@@ -11,7 +11,7 @@ This analysis is meant to take data from the last several years of the stock mar
 
 I started by pulling the output sheet set up code and ticker array from Sub AllStockAnalysis as shown here:
 
-![VBA_output_array.png].(/VBA_output_array.png)
+![VBA_output_array.png](VBA_output_array.png)
 
 I then created a tickerIndex, setting it to zero. Ticker volumes were calculated by checking rows for tickerIndexes and increasing the volume each time a tickerIndex was found:
 
